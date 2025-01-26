@@ -11,4 +11,4 @@ Ever since I was a little kid I loved to draw and play video games with my sibli
 
 ### Websites I recommend
 - [Minecraft](https://www.minecraft.net/en-us) - This is a website I will browse every so often for updates in Minecraft. This is a game that I play to relax and have fun with friends. 
-- [The Onion](https://theonion.com/local/) - This website is a good for whenever you are in need of a laugh in our current political climate.
+- [The Onion](https://theonion.com/local/) - The Onion is a newspaper that publishes satirical content about politics and entertainment. This website is a good for whenever you are in need of a laugh in our current political climate.
