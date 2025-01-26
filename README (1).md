@@ -13,4 +13,8 @@ C ----> B
 C -->|No| E[Go make it]
 E -----> C
 
-
+// Leave for work - In order to leave for work I have a few things I need: my lunch, and my keys.
+// Do I Have My Keys? - I need my car keys and house keys in order to be able to end the chain of commands.
+// Have I Made My Lunch? - I need to make something to eat before I end the chain of commands. 
+// Start car - I need my car keys in order to start my car to end the chain of commands. 
+// My dead end "No" actions pushes instructions for me to complete the steps needed in order for me to leave for work. 
