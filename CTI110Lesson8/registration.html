@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Registration</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h1>Course Registration</h1>
+		<br>
+		<form action="registration.php" method="post">
+		<label for= "fname">First Name:</label>
+		<input type="text" id="fname" name="fname" required>
+		<br></br>
+		<label for= "lname">Last Name:</label>
+		<input type="text" id="lname" name="lname" required>
+		<br></br>
+		<label for= "email">Email:</label>
+			<input type="email" id="email" name="email">
+			<br></br>
+			<label for= "numCourse">Number of Courses to Register:</label>
+			<input type="number" id="numCourse" name="numCourse" min="1" max="3" value="1">
+		<br></br>
+		<label for="major">Major Program:</label> 
+                <select name="major" id="major">
+                      	  <option value="Art Design">Art Design</option>  
+  	               	  <option value="Story Development">Story Development</option>
+                         <option value="Game Coding">Game Coding</option>
+	    </select>
+	    <br><br>
+		<input type="radio" id="InState" name="status" value="InState">
+		<label for="html">In-State</label><br>
+		<input type="radio" id="OutState" name="status" value="OutState">
+		<label for="css">Out-State</label>
+		<br><br>
+		<input type="checkbox" id="GAD130" name="GAD130" value="GAD130">
+			<label for="GAD130">GAD130 Art and 3D Modeling</label><br>
+			<input type="checkbox" id="GAD160" name="GAD160" value="GAD160">
+			<label for="GAD160">GAD160 Story development</label><br>
+			<input type="checkbox" id="GAD180" name="GAD180" value="GAD180">
+			<label for="GAD180">GAD180 Software Development</label><br>
+		<br><br>
+		<input type="submit" value="Submit">&nbsp;&nbsp;
+		<input type="reset" value="Cancel">
+</form>
+
+
+
+			
+	</body>
+</html>
